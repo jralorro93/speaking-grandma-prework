@@ -19,4 +19,6 @@ elsif phrase == phrase.upcase
   print "NO, NOT SINCE 1938!"
 elsif phrase == "I LVE YOU GRANDMA!"
   print "I LOVE YOU TOO PUMPKIN!"
+else
+  print "NO, NOT SINCE 193*!"
 end
